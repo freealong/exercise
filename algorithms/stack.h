@@ -1,0 +1,6 @@
+#ifndef EXERCISE_ALGORITHMS_STACK_H_
+#define EXERCISE_ALGORITHMS_STACK_H_
+
+
+
+#endif
